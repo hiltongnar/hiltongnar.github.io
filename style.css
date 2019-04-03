@@ -1,0 +1,15 @@
+.background-dark {
+  background: url(pittsburghbackground.jpg) center center no-repeat;
+  background-color: black;
+  background-size: cover;
+  min-height: 500px;
+}
+header {
+  color:white;
+  text-align: center;
+  padding: 50px 0;
+}
+
+.website {
+width: 80%
+}
